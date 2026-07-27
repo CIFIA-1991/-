@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix: 氣壓與氣候模擬器",
+  "description": "互動式高低氣壓與大氣風場模擬工具，支援自訂氣壓區、等壓線繪製、科氏力 (地轉偏向力)、氣候現象與風向向量場實時觀察。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
